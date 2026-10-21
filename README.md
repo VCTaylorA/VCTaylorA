@@ -7,8 +7,10 @@
   - Introductory Web Development: HTML, CSS and JavaScript + node.js
   - System Hardware: Boolean Algebra & digital logic, virtual memory, instruction set architecture among other topics.
   - Principles of Programming languages: Functional (Clojure & a little Erlang), Procedural (C), Concurrency (Erlang), and Python + libraries
+  - DS&A
 - 🌱 Currently taking:
-  - Data Structures & Algorithms
+  - C++ advanced program design
+  - Operating Systems
   - other electives :) 
 - 📫 How to reach me: email me at vctaylora@gmail.com
 
